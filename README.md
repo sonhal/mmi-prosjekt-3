@@ -1,4 +1,8 @@
 
-MMI prosjekt 3 - gruppe 13
+# MMI prosjekt 3 - gruppe 13
 
-Sondre - s305349
+| Gruppemedlem  | 
+| ------------- | 
+| Sondre - s305349  |
+| --"--  |
+
